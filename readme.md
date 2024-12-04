@@ -59,6 +59,8 @@ WATSONX_MODEL_ID = "meta-llama/llama-3-2-90b-vision-instruct"
 
 2. Update the `WATSONX_` properties with your data.
 
+3. Update the `TEMP_FOLDER` properties with your temp folder structure. In this folder the  downloaded will be kept.
+
 #### 1.4 Start the Python app
 
 1. Run the below commands to start the app
@@ -103,7 +105,7 @@ curl --location 'http://localhost:3001/api/query' \
 }'
 ```
 
-4. You can also use the postman to call this api.
+4. You can also use the postman to call this API.
     <img src="images/image-11.png">
 
     <img src="images/image-12.png">
