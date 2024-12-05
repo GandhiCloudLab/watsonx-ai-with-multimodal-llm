@@ -47,7 +47,7 @@ Python 3.x should be installed and available.
 1. Create `.env` file with the below entries (you should be still in the root folder of the repo /Users/xyz/watsonx-ai-with-multimodal-llm )
 
 ```
-LOGLEVEL = DBEUG
+LOGLEVEL = DEBUG
 
 TEMP_FOLDER = "/Users/gandhi/GandhiMain/990-Temp/test"
 
